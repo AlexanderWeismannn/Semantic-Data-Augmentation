@@ -42,8 +42,28 @@ ComfyUI is used to synthesize photorealistic images from prompts generated based
 
 <img width="2725" height="1467" alt="image" src="https://github.com/user-attachments/assets/f3e3ae0f-2243-4ba6-aa5f-58457ecec28c" />
 
+---
 
-And example training script can be viewed in the ["model_training.ipynb"](model_training.ipynb) file.
+An example model training script can be viewed in the ["model_training.ipynb"](model_training.ipynb) file.
+
+---
+
+## Results
+
+Below are some samples images generated of cocoa plants. We used both Local and Hybrid variety plants for this test and noticed minial artifacting:
+
+<img width="1660" height="1476" alt="image" src="https://github.com/user-attachments/assets/ab6d8fd4-52b8-4c86-9d53-616ed6b705b3" />
+
+Additionaly, more quantitative metrics like LPIPS and CLIP Similarity we achieve the scores below:
+
+<img width="867" height="209" alt="image" src="https://github.com/user-attachments/assets/4b5ef6ca-1b97-45d6-bd75-6e7b55d09f05" />
+
+These scores indicate the we have generated highly semantically related yet novel pieces of training data to use in our dataset.
+
+---
+
+
+
 
 
 
