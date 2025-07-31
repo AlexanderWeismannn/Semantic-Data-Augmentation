@@ -32,7 +32,7 @@ The shader node workflow is provided below:
 This provides fine-grained control over perspective, lighting, and geometry—crucial for producing consistent and high-fidelity training samples.
 ![apple_DA_animation0001-0210-ezgif com-optimize](https://github.com/user-attachments/assets/a4e2e3c9-4fb1-4758-b31e-8fcf7e063327)
 
-We automate combining the depth maps and source image together to form the new 3D topology using the (render_automation.py) script. 
+We automate combining the depth maps and source image together to form the new 3D topology using the ["render_automation.py"](render_automation.py) script. 
 
 ---
 
@@ -41,6 +41,9 @@ We automate combining the depth maps and source image together to form the new 3
 ComfyUI is used to synthesize photorealistic images from prompts generated based on object labels and scene templates. We utilize the below workflow to generate our images:
 
 <img width="2725" height="1467" alt="image" src="https://github.com/user-attachments/assets/f3e3ae0f-2243-4ba6-aa5f-58457ecec28c" />
+
+
+And example training script can be viewed in the ["model_training.ipynb"](model_training.ipynb) file.
 
 
 
