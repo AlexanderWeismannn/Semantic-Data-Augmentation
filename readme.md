@@ -54,7 +54,7 @@ Below are some samples images generated of cocoa plants. We used both Local and 
 
 <img width="1660" height="1476" alt="image" src="https://github.com/user-attachments/assets/ab6d8fd4-52b8-4c86-9d53-616ed6b705b3" />
 
-Additionaly, more quantitative metrics like LPIPS and CLIP Similarity we achieve the scores below:
+Additionaly, in more quantitative metrics like LPIPS and CLIP Similarity we achieve the scores below:
 
 <img width="867" height="209" alt="image" src="https://github.com/user-attachments/assets/4b5ef6ca-1b97-45d6-bd75-6e7b55d09f05" />
 
