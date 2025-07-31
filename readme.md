@@ -50,7 +50,7 @@ An example model training script can be viewed in the ["model_training.ipynb"](m
 
 ## Results
 
-Below are some samples images generated of cocoa plants. We used both Local and Hybrid variety plants for this test and noticed minial artifacting:
+Below are some samples images generated of cocoa plants. We used both Local and Hybrid variety plants for this test and noticed minimal artifacting:
 
 <img width="1660" height="1476" alt="image" src="https://github.com/user-attachments/assets/ab6d8fd4-52b8-4c86-9d53-616ed6b705b3" />
 
